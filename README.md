@@ -1,2 +1,1 @@
 # prng-test
-description
